@@ -1,10 +1,11 @@
 #include "functions.h"
+using std::string;
 
-auto encrypt(string s) {
+auto encrypt(string const & s) {
 
 }
 
-auto decrypt(string s) {
+auto decrypt(string const & s) {
 
 }
 
