@@ -1,0 +1,6 @@
+[submodule "src/libAPIs/argon2"]
+	path = src/libAPIs/argon2
+	url = https://github.com/P-H-C/phc-winner-argon2.git
+[submodule "src/libAPIs/imgui"]
+	path = src/libAPIs/imgui
+	url = https://github.com/ocornut/imgui.git
