@@ -5,6 +5,10 @@
 namespace Display {
 
     void renderUI() {
+        /* ImGui::Begin("Password Manager");
+        
+        ImGui::End(); */
+
         ImGui::ShowDemoWindow();
     }
 
