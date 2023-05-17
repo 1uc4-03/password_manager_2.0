@@ -5,6 +5,8 @@
 #include <map>
 #include <iostream>
 
+#include "argon2.h"
+
 auto encrypt(std::string const & s);
 auto decrypt(std::string const & s);
 
