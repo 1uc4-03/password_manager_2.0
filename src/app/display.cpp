@@ -1,6 +1,7 @@
 #include "display.h"
 #include "imgui.h"
 #include "functions.h"
+#include "nlohmann/json.hpp"
 
 namespace Display {
 
