@@ -18,7 +18,7 @@ void viewAllAcc();
 
 typedef void (*FnPtr)();
 
-std::map<char, FnPtr> const commands = {
+inline std::map<char, FnPtr> const commands = {
     {'n', &newAcc},
     {'p', &getAccByPassword},
     {'e', &getAccByEmail},
